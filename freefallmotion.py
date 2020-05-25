@@ -1,8 +1,5 @@
 import matplotlib.pyplot as plt
-from PIL import Image
-import glob
-import os.path
-import math 
+
 #Inisialisasi Variable
 v0 = 0
 t0 = 0
